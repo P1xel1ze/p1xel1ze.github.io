@@ -1,1 +1,3 @@
-# p1xel1ze.github.io
+I make stuff
+
+Links: [GitHub](https://github.com/P1xel1ze), [Modrinth](https://modrinth.com/user/P1xel1ze)
